@@ -1,4 +1,5 @@
-# A Guide to Modern OpenGL Functions
+# A Guide to Modern OpenGL Functions - ARCHIVE OF
+# ORIGINAL REPO: https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions
 
 ## Index
 
